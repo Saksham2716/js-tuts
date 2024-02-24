@@ -48,7 +48,7 @@ console.log(typeof name);
 let myYoutubename = "hiteshchoudharydotcom"
 let anothername = myYoutubename
 anothername = "chaiaurcode"
-console.log (myyoutubename);
+console.log (myYoutubename);
 console.log (anothername);
 
 let userOne = {
